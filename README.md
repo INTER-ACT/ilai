@@ -3,7 +3,7 @@
 ILAI is a language analyzation tool for text classification and sentiment analysis, built for the INTER!ACT discussion platform.
 
 ## Dependencies
-Due to the file size limit of GitHub of 100MB, some files are not stored in this repository. They have to be added manually in the [data](master/data) directory:
+Due to the file size limit of GitHub of 100MB, some files are not stored in this repository. They have to be added manually in the [data](data) directory:
 - **Models Directory:** 
 trained ML models.
 [Download Link](https://mega.nz/#F!zoQklDiJ!OhdXxQv2A_MFbdvQR6EsJQ)
